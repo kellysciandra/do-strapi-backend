@@ -21,6 +21,9 @@
     "product": {
       "model": "products",
       "via": "orders"
+    },
+    "date": {
+      "type": "string"
     }
   }
 }
