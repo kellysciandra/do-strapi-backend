@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ices",
+  "info": {
+    "name": "ice",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "account": {
+      "type": "string"
+    },
+    "balance": {
+      "type": "integer"
+    },
+    "total": {
+      "type": "integer"
+    },
+    "date": {
+      "type": "date"
+    }
+  }
+}
