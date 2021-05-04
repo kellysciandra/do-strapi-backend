@@ -23,6 +23,18 @@
     },
     "date": {
       "type": "date"
+    },
+    "sort_1": {
+      "type": "integer"
+    },
+    "sort_2": {
+      "type": "integer"
+    },
+    "sort_3": {
+      "type": "integer"
+    },
+    "sort_4": {
+      "type": "integer"
     }
   }
 }
